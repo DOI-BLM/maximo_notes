@@ -1,4 +1,4 @@
-# maximo_notes
+# Maximo / Oracle TCPS Notes
 # Configuring and testing an ssl connection with an Oracle database
 
 ####  Run the oracle express database
